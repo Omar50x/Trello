@@ -1,0 +1,83 @@
+:root {
+    --dark-color: #ECE8FF;
+    --skay-color: #0065FF;
+}
+body {
+    font-family: "Roboto", sans-serif;
+}
+.main-btn:hover {
+    color: var(--yellow-colo);
+}
+.navbar, .cont1 {
+    background-color: var(--dark-color);
+}
+.cont1 {
+    padding: 100px 0px;
+}
+.cont1 input {
+    width: 329px;
+    height: 73px;
+    border-radius: 6px;
+    position: relative;
+    top: 4px;
+}
+.cont1 .btn {
+    width: 246px;
+    height: 70px;
+    border-radius: 6px;
+}
+.cont1 h1 {
+    font-size: 2.9em;
+}
+.cont2 h2 {
+    font-size: 2.3em;
+}
+.div1 {
+    width: 1000px;
+}
+.cont2 .btn {
+    border: solid 1px var(--skay-color);
+}
+.cont2, .cont3, .cont4, .cont5, .cont6, .cont7 {
+    margin: 100px 0px;
+}
+.cont3 h2 {
+    font-size: 2.3em;
+}
+
+.cont4 h6 {
+    font-size: 0.7em;
+}
+.cont4 h2 {
+    font-size: 2.3em;
+}
+.cont8 button {
+    border: solid 1px var(--skay-color);
+    
+}
+.cont8 .div1 {
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+    padding: 20px 0px;
+}
+.cont9 {
+    background-color: #E6FCFF;
+    padding: 100px 0px;
+    margin: 40px 0px;
+}
+.cont10 input {
+    width: 350px;
+    height: 45px;
+}
+.cont10 .btn {
+    height: 45px;
+    width: 170px;
+    margin-bottom: 5px;
+}
+.cont10 .div1 {
+    padding: 100px 200px;
+    background-image: url(../img/vectoriel.jpg);
+}
+.cont11 h6 {
+    margin-bottom: -4px;
+}
